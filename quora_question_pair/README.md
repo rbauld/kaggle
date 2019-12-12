@@ -1,4 +1,4 @@
-This is my solution to the kaggle quora question pair challenge! (scored top 6%!)
+This is my solution to the [kaggle quora question pair](https://www.kaggle.com/c/quora-question-pairs) challenge! (scored top 6%!)
 
 Note: Not all this code is mine. Kaggle competitions can be very collaborative and it is common for people to borrow features/whatever from various kernels to incorporate into their models. MOST of the code is referenced appropriately, but I could have missed a few things.
 
